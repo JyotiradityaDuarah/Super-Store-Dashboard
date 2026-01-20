@@ -1,15 +1,10 @@
 🔍 Key Insights
 
 • Total Sales: $2.3M
-
 • Total Profit: $286.4K
-
 • Highest-performing quarter: Q4
-
 • Top region: West
-
 • Top category: Technology
-
 • Strong performance from major urban cities like New York and Los Angeles
 
 🛠 Tools & Technologies

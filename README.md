@@ -34,7 +34,9 @@
 • City-level sales table for detailed insights
 
 **🎯 Objective** 
+
 To demonstrate the ability to:
+
 • Build end-to-end Power BI dashboards
 
 • Create meaningful KPIs and business metrics
